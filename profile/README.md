@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/jlmoses/" target="_blank">
-    <img align="left" src="./docs/assets/InBug-White.png" alt="Jesse Moses on LinkedIn" height="30" />
+    <img align="left" src="../docs/assets/InBug-White.png" alt="Jesse Moses on LinkedIn" height="30" />
   </a>
   <br/>
 </p>
