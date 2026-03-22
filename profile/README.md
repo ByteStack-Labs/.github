@@ -1,60 +1,33 @@
-<p align="left">
-  <a href="https://www.linkedin.com/company/bytestack-labs/" target="_blank">
-    <img align="left" src="../docs/assets/InBug-White.png" alt="ByteStack Labs on LinkedIn" height="30" style="margin-right: 15px;" />
-  </a>
-  <br/>
-  <br/>
-  <em>Systems architecture for AI/ML ⇒ Rigorous analysis, upstream governance, and mathematical validation.</em>
-</p>
+## ByteStack Labs
+
+**Intelligent systems engineered from mathematical foundations.** Architecture that holds under pressure.
+
+Founded by [Jesse Moses](https://github.com/Cre4T3Tiv3), Founder & Chief Architect. Over a decade of professional engineering across fintech, ad-tech, and enterprise SaaS.
+
+We don't negotiate with complexity. We start where it matters: validate the math, stress the design, then build with precision. From neural network architecture and model training to production deployment and data-driven decision systems, we engineer the full stack from mathematical foundations.
 
 ---
 
-# ByteStack Labs
-
-> *Work begins at the system boundaries. Not at the implementation layer.*
-
-▶ **Founded by [Jesse Moses (@Cre4T3Tiv3)](https://github.com/Cre4T3Tiv3), Founder & Chief Architect.**
-
-> Most engineering failures happen upstream, at the architecture level, before code is written. Leverage points are identified. Complexity is analyzed mathematically. Systems are built to scale because the architecture was right from the start.
-
-▶ A decade of production engineering across fintech, ad-tech, and enterprise SaaS informs every engagement.
-
-> **The methodology is the differentiator.**
+[![ByteStack Labs](https://raw.githubusercontent.com/ByteStack-Labs/.github/main/docs/assets/bytestack-labs-white.png)](https://bytestacklabs.com) [![ByteStack Labs on LinkedIn](https://raw.githubusercontent.com/ByteStack-Labs/.github/main/docs/assets/linkedin-white.png)](https://www.linkedin.com/company/bytestack-labs/) &nbsp;&nbsp;&nbsp; [![ByteStack Labs on Medium](https://raw.githubusercontent.com/ByteStack-Labs/.github/main/docs/assets/medium-white.png)](https://medium.com/@bytestacklabs) &nbsp;&nbsp;&nbsp; [![Founder: Jesse Moses](https://raw.githubusercontent.com/ByteStack-Labs/.github/main/docs/assets/github-white.png)](https://github.com/Cre4T3Tiv3)
 
 ---
 
-## What We Build
+### How We Think
 
-▶ **Agentic & AI-Native Systems** ⇒ Real autonomous systems. State, planning, learning. Not LLM wrappers marketed as agents.
+**Systems-Level Thinking** — Start at the boundaries. Understand the full topology before choosing where to cut. Design decisions compound. We make them deliberately.
 
-> **Full-Stack AI Engineering** ▶ End-to-end ML pipelines with information hygiene built in. Statistical validation. Complexity analysis. Production-grade reliability under real-world constraints.
+**Precision Without Rigidity** — Mathematical rigor meets adaptive thinking. Structure that enables rather than constrains.
 
-▶ **Software & Cloud Architecture** ⇒ Upstream design across AWS & GCP. Built for failure modes before they exist. Systems that scale because the architecture was right.
+**Earned Authority** — No hype cycles. Positions built on empirical validation, complexity analysis, and real-world performance data.
 
----
-
-## How We Work
-
-> **Upstream Governance** ▶ System boundaries and constraints defined before code is written. Architecture determines capability.
-
-▶ **Mathematical Rigor** ⇒ Statistical validation, complexity analysis, reproducible methodology. No hand-waving. Just math.
-
-> **Information Hygiene** ▶ Clean signal paths. Isolated failure domains. Coupling points identified and eliminated at the design level.
-
-▶ **Cross-Domain Synthesis** ⇒ Pattern recognition across fintech, ad-tech, AI/ML, and systems research that narrow specialists miss.
+**Substance Over Signal** — If we can't quantify it, we don't claim it. Every recommendation backed by evidence.
 
 ---
 
-### Tech Stack
+### Engagements
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,go,rust,cpp,ts,js,html,css,latex,ai,fastapi,nodejs,spring,react,nextjs,svelte,tailwind,tauri,vite,electron,npm,figma,obsidian,aws,azure,gcp,terraform,docker,kubernetes,nginx,linux,arch,bsd,bash,sqlite,postgresql,dynamodb,cassandra,mongodb,elasticsearch,redis,graphql,kafka,rabbitmq,tensorflow,opencv,pytorch,grafana,prometheus,github,gitlab,git,vscode,md&perline=18" alt="ByteStack Labs supported tech stack" />
-  </a>
-</p>
+AI Agents & Orchestration · Production ML Systems · Data Analytics & Intelligence · Cloud-Native Architecture · Real-Time Infrastructure · Statistical Modeling · LLM Integration & RAG · API & Platform Design · Applied Mathematics · Full-Stack Engineering
 
 ---
 
-▶ [bytestacklabs.com](https://bytestacklabs.com) ⇒ [Schedule a complimentary 30-minute discovery call](https://calendly.com/jesse-bytestacklabs/30min)
-> [github.com/Cre4T3Tiv3](https://github.com/Cre4T3Tiv3) ▶ Founder & Chief Architect
-▶ [linkedin.com/in/jlmoses/](https://www.linkedin.com/in/jlmoses/) ⇒ [orcid.org/0009-0006-0322-7974](https://orcid.org/0009-0006-0322-7974)
+*Precision is the authority.*
