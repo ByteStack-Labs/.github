@@ -4,15 +4,15 @@
 
 Founded by [Jesse Moses](https://github.com/Cre4T3Tiv3), Founder & Chief Architect. Over a decade of professional engineering across fintech, ad-tech, and enterprise SaaS.
 
-We don't negotiate with complexity. We start where it matters: validate the math, stress the design, then build with precision. From neural network architecture and model training to production deployment and data-driven decision systems, we engineer the full stack from mathematical foundations.
+We don't negotiate with complexity. Instead, start where it matters: validate the math, stress the design, then build with precision. From neural network architecture and model training to production deployment and data-driven decision systems, we engineer the full stack from mathematical foundations.
 
 ---
 
-[![ByteStack Labs](https://raw.githubusercontent.com/ByteStack-Labs/.github/main/docs/assets/bytestack-labs-white.png)](https://bytestacklabs.com) [![ByteStack Labs on LinkedIn](https://raw.githubusercontent.com/ByteStack-Labs/.github/main/docs/assets/linkedin-white.png)](https://www.linkedin.com/company/bytestack-labs/) &nbsp;&nbsp;&nbsp; [![ByteStack Labs on Medium](https://raw.githubusercontent.com/ByteStack-Labs/.github/main/docs/assets/medium-white.png)](https://medium.com/@bytestacklabs) &nbsp;&nbsp;&nbsp; [![Founder: Jesse Moses](https://raw.githubusercontent.com/ByteStack-Labs/.github/main/docs/assets/github-white.png)](https://github.com/Cre4T3Tiv3)
+[![ByteStack Labs](https://raw.githubusercontent.com/ByteStack-Labs/.github/main/profile/docs/assets/bytestack-labs-white.png)](https://bytestacklabs.com) &nbsp;&nbsp;&nbsp;[![ByteStack Labs on LinkedIn](https://raw.githubusercontent.com/ByteStack-Labs/.github/main/profile/docs/assets/linkedin-white.png)](https://www.linkedin.com/company/bytestack-labs/) &nbsp;&nbsp;&nbsp; [![ByteStack Labs on Medium](https://raw.githubusercontent.com/ByteStack-Labs/.github/main/profile/docs/assets/medium-white.png)](https://medium.com/@bytestacklabs) &nbsp;&nbsp;&nbsp; [![Founder: Jesse Moses](https://raw.githubusercontent.com/ByteStack-Labs/.github/main/profile/docs/assets/github-white.png)](https://github.com/Cre4T3Tiv3)
 
 ---
 
-### How We Think
+### Methodology
 
 **Systems-Level Thinking** — Start at the boundaries. Understand the full topology before choosing where to cut. Design decisions compound. We make them deliberately.
 
