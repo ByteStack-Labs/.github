@@ -8,7 +8,7 @@ We don't negotiate with complexity. We start where it matters: validate the math
 
 ---
 
-[![ByteStack Labs](https://raw.githubusercontent.com/ByteStack-Labs/.github/main/profile/docs/assets/bytestack-labs-white.png)](https://bytestacklabs.com) [![ByteStack Labs on LinkedIn](https://raw.githubusercontent.com/ByteStack-Labs/.github/main/profile/docs/assets/linkedin-white.png)](https://www.linkedin.com/company/bytestack-labs/) &nbsp;&nbsp;&nbsp; [![ByteStack Labs on Medium](https://raw.githubusercontent.com/ByteStack-Labs/.github/main/profile/docs/assets/medium-white.png)](https://medium.com/@bytestacklabs) &nbsp;&nbsp;&nbsp; [![Founder: Jesse Moses](https://raw.githubusercontent.com/ByteStack-Labs/.github/main/profile/docs/assets/github-white.png)](https://github.com/Cre4T3Tiv3)
+[![ByteStack Labs](https://raw.githubusercontent.com/ByteStack-Labs/.github/main/profile/docs/assets/bytestack-labs-white.png)](https://bytestacklabs.com) &nbsp;&nbsp;&nbsp; [![ByteStack Labs on LinkedIn](https://raw.githubusercontent.com/ByteStack-Labs/.github/main/profile/docs/assets/linkedin-white.png)](https://www.linkedin.com/company/bytestack-labs/) &nbsp;&nbsp;&nbsp; [![ByteStack Labs on Medium](https://raw.githubusercontent.com/ByteStack-Labs/.github/main/profile/docs/assets/medium-white.png)](https://medium.com/@bytestacklabs) &nbsp;&nbsp;&nbsp; [![Founder: Jesse Moses](https://raw.githubusercontent.com/ByteStack-Labs/.github/main/profile/docs/assets/github-white.png)](https://github.com/Cre4T3Tiv3)
 
 ---
 
