@@ -1,32 +1,38 @@
 ## ByteStack Labs
 
-**Intelligent systems engineered from mathematical foundations.** Architecture that holds under pressure.
+**Precision architecture for AI/ML-enabled systems.** AI/ML systems that perform in production. Not just in evaluation.
 
-Founded by [Jesse Moses](https://github.com/Cre4T3Tiv3), Founder & Chief Architect. Over a decade of professional engineering across fintech, ad-tech, and enterprise SaaS.
+ByteStack Labs is a precision architecture firm for AI/ML-enabled systems. We diagnose what conventional testing missed, design what production demands, and build with mathematical rigor at every layer.
 
-We don't negotiate with complexity. We start where it matters: validate the math, stress the design, then build with precision. From neural network architecture and model training to production deployment and data-driven decision systems, we engineer the full stack from mathematical foundations.
+Founded by [Jesse Moses](https://github.com/Cre4T3Tiv3), Founder & Chief Architect.
 
----
-
-<a href="https://bytestacklabs.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByteStack-Labs/.github/main/profile/docs/assets/bytestack-labs-white.png"><img alt="ByteStack Labs" src="https://raw.githubusercontent.com/ByteStack-Labs/.github/main/profile/docs/assets/bytestack-labs-dark.png"></picture></a> &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/company/bytestack-labs/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByteStack-Labs/.github/main/profile/docs/assets/linkedin-white.png"><img alt="ByteStack Labs on LinkedIn" src="https://raw.githubusercontent.com/ByteStack-Labs/.github/main/profile/docs/assets/linkedin-dark.png"></picture></a> &nbsp;&nbsp;&nbsp; <a href="https://medium.com/@bytestacklabs"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByteStack-Labs/.github/main/profile/docs/assets/medium-white.png"><img alt="ByteStack Labs on Medium" src="https://raw.githubusercontent.com/ByteStack-Labs/.github/main/profile/docs/assets/medium-dark.png"></picture></a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/Cre4T3Tiv3"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByteStack-Labs/.github/main/profile/docs/assets/github-white.png"><img alt="Founder: Jesse Moses" src="https://raw.githubusercontent.com/ByteStack-Labs/.github/main/profile/docs/assets/github-dark.png"></picture></a>
+We engineer architecture, not features.
 
 ---
 
-### How We Think
+### How We Work
 
-**Systems-Level Thinking** — Start at the boundaries. Understand the full topology before choosing where to cut. Design decisions compound. We make them deliberately.
+**Reproducibility.** Every finding traces back to evidence. Every recommendation is verifiable. You don't take our word for anything; you see the work.
 
-**Precision Without Rigidity** — Mathematical rigor meets adaptive thinking. Structure that enables rather than constrains.
+**Mathematical Foundations.** Architectural decisions get validated against the math before they get implemented. Statistical assumptions get tested. Performance claims get proven.
 
-**Earned Authority** — No hype cycles. Positions built on empirical validation, complexity analysis, and real-world performance data.
+**Production-Conditions Thinking.** Systems are designed for the conditions they'll actually face, not the conditions of evaluation. Edge cases are first-class citizens.
 
-**Substance Over Signal** — If we can't quantify it, we don't claim it. Every recommendation backed by evidence.
+**Architectural Honesty.** If your AI/ML system has a structural problem, we name it. If your architecture is sound, we say so. We don't manufacture work that doesn't need doing.
 
 ---
 
 ### Engagements
 
-AI Agents & Orchestration · Production ML Systems · Data Analytics & Intelligence · Cloud-Native Architecture · Real-Time Infrastructure · Statistical Modeling · LLM Integration & RAG · API & Platform Design · Applied Mathematics · Full-Stack Engineering
+**AI/ML System Diagnostic.** A reproducible diagnostic investigation of your AI/ML system. We identify architectural failures, mathematical weaknesses, and production risks that conventional testing missed.
+
+**AI/ML Architecture Engagement.** Design and build of AI/ML systems with mathematical validation at each architectural layer. The system you ship is engineered to perform in production at the same level it performs in evaluation.
+
+**AI/ML Strategic Advisory.** Architecture-level guidance for AI/ML infrastructure decisions before capital is committed.
+
+---
+
+<a href="https://bytestacklabs.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByteStack-Labs/.github/main/profile/docs/assets/bytestack-labs-white.png"><img alt="ByteStack Labs" src="https://raw.githubusercontent.com/ByteStack-Labs/.github/main/profile/docs/assets/bytestack-labs-dark.png"></picture></a> &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/company/bytestack-labs/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByteStack-Labs/.github/main/profile/docs/assets/linkedin-white.png"><img alt="ByteStack Labs on LinkedIn" src="https://raw.githubusercontent.com/ByteStack-Labs/.github/main/profile/docs/assets/linkedin-dark.png"></picture></a> &nbsp;&nbsp;&nbsp; <a href="https://medium.com/@bytestacklabs"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByteStack-Labs/.github/main/profile/docs/assets/medium-white.png"><img alt="ByteStack Labs on Medium" src="https://raw.githubusercontent.com/ByteStack-Labs/.github/main/profile/docs/assets/medium-dark.png"></picture></a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/Cre4T3Tiv3"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByteStack-Labs/.github/main/profile/docs/assets/github-white.png"><img alt="Founder: Jesse Moses" src="https://raw.githubusercontent.com/ByteStack-Labs/.github/main/profile/docs/assets/github-dark.png"></picture></a>
 
 ---
 
