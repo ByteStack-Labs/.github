@@ -1,8 +1,8 @@
 ## ByteStack Labs
 
-**Precision architecture for AI/ML-enabled systems.** AI/ML systems that perform in production. Not just in evaluation.
+**Precision architecture for AI/ML-enabled systems and the data and analytics layers they depend on.** AI/ML systems that perform in production. Not just in evaluation.
 
-ByteStack Labs is a precision architecture firm for AI/ML-enabled systems. We diagnose what conventional testing missed, design what production demands, and build with mathematical rigor at every layer.
+ByteStack Labs is a precision architecture firm for AI/ML-enabled systems and the data and analytics layers they depend on. We diagnose what conventional testing missed, design what production demands, and build with mathematical rigor at every layer, from data ingestion through production serving.
 
 Founded by [Jesse Moses](https://github.com/Cre4T3Tiv3), Founder & Chief Architect.
 
@@ -24,11 +24,11 @@ We engineer architecture, not features.
 
 ### Engagements
 
-**AI/ML System Diagnostic.** A reproducible diagnostic investigation of your AI/ML system. We identify architectural failures, mathematical weaknesses, and production risks that conventional testing missed.
+**Data and AI/ML System Diagnostic.** A reproducible diagnostic investigation of your AI/ML system. We identify architectural failures, mathematical weaknesses, and production risks across the data and AI/ML stack that conventional testing missed.
 
-**AI/ML Architecture Engagement.** Design and build of AI/ML systems with mathematical validation at each architectural layer. The system you ship is engineered to perform in production at the same level it performs in evaluation.
+**Data and AI/ML Architecture Engagement.** Design and build of AI/ML systems with mathematical validation at each architectural layer. The system you ship is engineered to perform in production at the same level it performs in evaluation.
 
-**AI/ML Strategic Advisory.** Architecture-level guidance for AI/ML infrastructure decisions before capital is committed.
+**Data and AI/ML Strategic Advisory.** Architecture-level guidance for AI/ML infrastructure decisions before capital is committed.
 
 ---
 
