@@ -1,12 +1,12 @@
 ## ByteStack Labs
 
-**Precision architecture for AI/ML-enabled systems and the data and analytics layers they depend on.** AI/ML systems that perform in production. Not just in evaluation.
+**Precision architecture for AI/ML-enabled systems and the data and analytics layers they depend on.** Systems that perform in production. Not just in the pitch.
 
 ByteStack Labs is a precision architecture firm for AI/ML-enabled systems and the data and analytics layers they depend on. We diagnose what conventional testing missed, design what production demands, and build with mathematical rigor at every layer, from data ingestion through production serving.
 
 Founded by [Jesse Moses](https://github.com/Cre4T3Tiv3), Founder & Chief Architect.
 
-We engineer architecture, not features.
+We don't ship features. We engineer architecture.
 
 ---
 
@@ -18,17 +18,27 @@ We engineer architecture, not features.
 
 **Production-Conditions Thinking.** Systems are designed for the conditions they'll actually face, not the conditions of evaluation. Edge cases are first-class citizens.
 
-**Architectural Honesty.** If your AI/ML system has a structural problem, we name it. If your architecture is sound, we say so. We don't manufacture work that doesn't need doing.
+**Architectural Honesty.** If your system has a structural problem, we name it. If your architecture is sound, we say so. We don't manufacture work that doesn't need doing.
 
 ---
 
 ### Engagements
 
-**Data and AI/ML System Diagnostic.** A reproducible diagnostic investigation of your AI/ML system. We identify architectural failures, mathematical weaknesses, and production risks across the data and AI/ML stack that conventional testing missed.
+**Data and AI/ML System Diagnostic.** A reproducible diagnostic investigation of your system. We identify architectural failures, mathematical weaknesses, and production risks across the data and AI/ML stack that conventional testing missed.
 
-**Data and AI/ML Architecture Engagement.** Design and build of AI/ML systems with mathematical validation at each architectural layer. The system you ship is engineered to perform in production at the same level it performs in evaluation.
+**Data and AI/ML Architecture Engagement.** Design and build of AI/ML systems with mathematical validation at each architectural layer. The system you ship is engineered to perform in production at the same level it performs in evaluation. No demo-to-scale gap.
 
 **Data and AI/ML Strategic Advisory.** Architecture-level guidance for AI/ML infrastructure decisions before capital is committed.
+
+---
+
+### Open Work
+
+Public artifacts, built to the same standard we bring to client engagements. Derivation-first, reproducible, and instrumented to reveal whether they are working.
+
+**[kalmangrad](https://github.com/ByteStack-Labs/kalmangrad).** The standard linear Kalman filter, derived from first principles and built to diagnose itself. A NumPy-only reference implementation where every line cites the equation it implements, with diagnostic instrumentation that reveals whether a running filter is actually optimal.
+
+**[slm-autopsy](https://github.com/ByteStack-Labs/slm-autopsy).** A reproducible diagnostic investigation of a small language model that passed every benchmark, then failed silently in production when input formatting left the training distribution. Training pipeline, evaluation suite, failure reproduction, and mathematical root-cause analysis.
 
 ---
 
